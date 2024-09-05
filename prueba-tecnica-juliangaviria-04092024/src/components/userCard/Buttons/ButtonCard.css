@@ -1,0 +1,4 @@
+button {
+    display: flexbox;
+    gap: 20px;
+}
